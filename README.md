@@ -1,6 +1,6 @@
 # DevOps Technical Test
 
-Very simple way of running it:
+Very simple way of run it:
 
 * terraform init
 * terraform plan
